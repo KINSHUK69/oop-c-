@@ -1,9 +1,10 @@
+// class to store the details of a student using class
 #include<iostream>
 using namespace std;
 
 class student
 {
-    public:
+    public:         //access modifiers can be public|private|protected
         string name,address;
         int roll;
         int age;
