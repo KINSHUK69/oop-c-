@@ -1,2 +1,2 @@
 # oop-c-
-object oriented proframming
+object oriented programming
