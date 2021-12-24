@@ -1,5 +1,6 @@
 #include<iostream>
-using namespace std;
+// an abstract class is a class in which there is even if one pure virtual function
+using namespace std; 
 class base
 {
     public : 
